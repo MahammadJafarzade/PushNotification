@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343370846714",
+    "project_id": "pushnotificationtest-c424a",
+    "storage_bucket": "pushnotificationtest-c424a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343370846714:android:f73637f2ba6c6db7631443",
+        "android_client_info": {
+          "package_name": "com.mahammadjafarzade.pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd8ZWnw4E2OlJZim-12otAx8DmbF5kfJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
